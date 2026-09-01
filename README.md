@@ -199,3 +199,5 @@ adalah pelajar, sedangkan 6% sisanya bekerja.
     Lima restoran teratas dengan peringkat kepuasan pelanggan tinggi adalah Tortas Locas Hipocampo, yang sebagian besar konsumennya sangat puas, dan Puesto de Tacos, yang telah menerima 30 peringkat konsumen sangat puas. Cafeteria y Restaurante El Pacífico menyusul dengan 24 konsumen yang memberikan penilaian sangat memuaskan, sementara La Cantina Restaurante memberikan 28 penilaian sangat puas. Melengkapi daftarnya, Restaurant la Chalita telah mengumpulkan 20 peringkat kepuasan tinggi dari para pelanggannya.
   
 ## Dashboard:
+<img width="1329" height="735" alt="Screenshot Dashboard PBI" src="https://github.com/user-attachments/assets/6f24273d-0e40-4d4c-bf00-60b608568e95" />
+
