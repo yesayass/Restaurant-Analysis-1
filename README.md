@@ -201,3 +201,5 @@ adalah pelajar, sedangkan 6% sisanya bekerja.
 ## Dashboard:
 <img width="1329" height="735" alt="Screenshot Dashboard PBI" src="https://github.com/user-attachments/assets/6f24273d-0e40-4d4c-bf00-60b608568e95" />
 
+## Link Power BI
+- Link Dashboard Power BI <a href="https://github.com/yesayass/Restaurant-Analysis-1/blob/main/Restaurant%20Ratings%20Analysis.pbix">View Dashboard
